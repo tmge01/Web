@@ -219,7 +219,7 @@ a:hover {
   margin: auto;
   width: 900px;
   height: 480px;
-  background: #269CCF;
+  background: red;
   border-radius: 10px;
   padding: 30px 0 0 0;
 }
